@@ -3,24 +3,12 @@
     "userId": 1,
     "id": 1,
     "nama": "ALVI ANANTA",
-    "body": "SEBAGAI KASIR SIP 2 MAKA JAM KERJA 12.00-23.59"
+    "body": "PETUGAS PERPUSTAKAAN"
   },
   {
     "userId": 1,
     "id": 2,
     "nama": "SULIANA",
-    "body": "SEBAGAI ADMIN IT MAKA JAM KERJA 00.00-23.59"
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "nama": "SYAHIBA SAUFA",
-    "body": "SEBAGAI KASIR SIP 1 MAKA JAM KERJA 00.00-11.59"
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "nama": "VITA ALVIA",
-    "body": "SEBAGAI APOTEKER MAKA JAM KERJA 06.00-19.00"
+    "body": "PETUGAS PERPUSTAKAAN"
   }
 ]
